@@ -1,0 +1,10 @@
+Package: MedianImputer
+Type: Package
+Title: Replace missing values with median
+Version: 0.1.0
+Author: Muhd Daniel 
+Maintainer: danielhafiez13@gmail.com
+Description: Replace any missing values in numeric columns with the medianof respective column
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
